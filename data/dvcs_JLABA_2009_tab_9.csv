@@ -1,4 +1,4 @@
-﻿bin,k,q_squared,t,x_b,w,phi,sigma,sigma_stat_plus,sigma_stat_minus,sigma_sys_plus,sigma_sys_minus,cos_theta_CM,D2_sigma_d_omega (nb/sr),D2_sigma_d_omega_stat_plus,D2_sigma_d_omega_stat_minus,D2_sigma_d_omega_sys_plus,D2_sigma_d_omega_sys_minus,D2_sigma_dt (nb/GeV^2),D2_sigma_dt_stat_plus,D2_sigma_dt_stat_minus,D2_sigma_dt_sys_plus,D2_sigma_dt_sys_minus,link
+﻿bin,k,q_squared,t,x_b,w,phi,sigma,sigma_stat_plus,sigma_stat_minus,sigma_sys_plus,sigma_sys_minus,cos_theta_CM,D2_sigma_d_omega (nb/sr),D2_sigma_d_omega_stat_plus,D2_sigma_d_omega_stat_minus,D2_sigma_d_omega_sys_plus,D2_sigma_d_omega_sys_minus,dsigma/dt [nb/GeV^2],dsigma/dt_stat_plus,dsigma/dt_stat_minus,dsigma/dt_sys_plus,dsigma/dt_sys_minus,link
 ,,1,,,0.99,,,,,,,−0.975,497,67,67,283,283,28200,3810,3810,16100,16100,https://doi.org/10.1103/PhysRevC.79.015201
 ,,1,,,1.01,,,,,,,−0.975,262,23,23,81,81,10900,995,995,3390,3390,
 ,,1,,,1.03,,,,,,,−0.975,142,12,12,33,33,4750,411,411,1120,1120,

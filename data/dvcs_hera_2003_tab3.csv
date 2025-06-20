@@ -1,4 +1,4 @@
-bin,k,q_squared,t,x_b,w,phi,sigma,sigma_stat_plus,sigma_stat_minus,sigma_sys_plus,sigma_sys_minus,link
+bin,k,q_squared,t,x_b,w,phi,sigma [nb],sigma_stat_plus,sigma_stat_minus,sigma_sys_plus,sigma_sys_minus,link
 1,27.6,4.0,,,45,,6.5,0.8,0.8,1.1,1.1,https://link.springer.com/article/10.1140/epjc/s2005-02345-3
 2,27.6,4.0,,,70,,8.9,1.3,1.3,1.6,1.6,https://link.springer.com/article/10.1140/epjc/s2005-02345-3
 3,27.6,4.0,,,90,,11.1,2.2,2.2,2.7,2.7,https://link.springer.com/article/10.1140/epjc/s2005-02345-3

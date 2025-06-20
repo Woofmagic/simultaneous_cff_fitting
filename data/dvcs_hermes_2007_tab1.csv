@@ -1,4 +1,4 @@
-bin,k,q_squared,t,x_b,w,phi,bca,bca_stat_plus,bca_stat_minus,bca_sys_plus,bca_sys_minus,link
+bin,k,q_squared,t,x_b,w,phi,BCA,BCA_stat_plus,BCA_stat_minus,BCA_sys_plus,BCA_sys_minus,link
 1,27.6,2.0,-0.03,0.08,,,0.024,0.043,0.043,0.022,0.022,https://journals.aps.org/prd/abstract/10.1103/PhysRevD.75.011103
 2,27.6,2.6,-0.09,0.10,,,0.020,0.054,0.054,0.022,0.022,https://journals.aps.org/prd/abstract/10.1103/PhysRevD.75.011103
 3,27.6,3.0,-0.20,0.11,,,0.071,0.066,0.066,0.028,0.028,https://journals.aps.org/prd/abstract/10.1103/PhysRevD.75.011103

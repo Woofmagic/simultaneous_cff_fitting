@@ -1,4 +1,4 @@
-bin,k,q_squared_min,q_squared_max,t,x_b,w,phi,sigma,sigma_stat_plus,sigma_stat_minus,sigma_sys_plus,sigma_sys_minus,link
+bin,k,q_squared_min,q_squared_max,t,x_b,w,phi,sigma [nb],sigma_stat_plus,sigma_stat_minus,sigma_sys_plus,sigma_sys_minus,link
 1,27.5,1.5,5.0,,,104,,21.28,0.92,0.92,1.02,1.34,https://iopscience.iop.org/article/10.1088/1126-6708/2009/05/108
 2,27.5,5.0,10.0,,,104,,5.87,0.42,0.42,0.14,0.30,https://iopscience.iop.org/article/10.1088/1126-6708/2009/05/108
 3,27.5,10.0,15.0,,,104,,3.27,0.33,0.33,0.07,0.16,https://iopscience.iop.org/article/10.1088/1126-6708/2009/05/108

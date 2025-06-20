@@ -1,4 +1,4 @@
-﻿bin,k,q_squared,t,x_b,w,phi,sigma [nb],sigma_stat_plus,sigma_stat_minus,sigma_sys_plus,sigma_sys_minus,phi_min,phi_max,beam_charge_asym,BCA_stat_plus,BCA_stat_minus,BCA_sys_plus,BCA_sys_minus,link
+﻿bin,k,q_squared,t,x_b,w,phi,sigma [nb],sigma_stat_plus,sigma_stat_minus,sigma_sys_plus,sigma_sys_minus,phi_min,phi_max,BCA,BCA_stat_plus,BCA_stat_minus,BCA_sys_plus,BCA_sys_minus,link
 ,,,,,,10,,,,,,0,20,0.326,0.086,-0.086,0.18,-0.18,https://doi.org/10.1016/j.physletb.2009.10.035
 ,,,,,,35,,,,,,20,50,0.119,0.076,-0.076,0.09,-0.09,https://doi.org/10.1016/j.physletb.2009.10.035
 ,,,,,,70,,,,,,50,90,-0.039,0.08,-0.08,0.03,-0.03,https://doi.org/10.1016/j.physletb.2009.10.035
